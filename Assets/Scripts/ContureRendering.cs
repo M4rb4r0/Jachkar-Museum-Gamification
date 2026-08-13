@@ -5,10 +5,6 @@ public class ContureRendering : MonoBehaviour
 {
 
     private Behaviour halo;
-
-    [SerializeField]
-    public Camera topView;
-    
     void Start()
     {
         halo = GetComponent<Behaviour>();
