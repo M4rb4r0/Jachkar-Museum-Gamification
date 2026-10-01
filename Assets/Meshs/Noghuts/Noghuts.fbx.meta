@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: 5b97dac184dc974408ba3b710bb467e3
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1001
+    second: {fileID: 2100000, guid: 94113ac2afcec794eb2f1e443b6760bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1002
+    second: {fileID: 2100000, guid: 8765f3b1a65c8b94795ad0019d587a35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1003
+    second: {fileID: 2100000, guid: 5bfa288ec3c906141bbef455f6dbd073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1004
+    second: {fileID: 2100000, guid: 700f33f3911e30944836d3d49d6e8fd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1005
+    second: {fileID: 2100000, guid: 68942fddd7391a148bcc9022b927d695, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1006
+    second: {fileID: 2100000, guid: 0aba3db7ca47d5048966079d851f35a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1007
+    second: {fileID: 2100000, guid: f2f2c794b8502364caed934e5e6cc3b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1008
+    second: {fileID: 2100000, guid: a6f3df68d4bbf784cba4c06a5ce6f525, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1009
+    second: {fileID: 2100000, guid: 9e53fb50ae1cb244fa264cbd09a4f194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1010
+    second: {fileID: 2100000, guid: da54141cfd3f0d34895b9ca3a25adbc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1011
+    second: {fileID: 2100000, guid: cfe64e85c63b76444a4e6dfdd9fcbbec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1012
+    second: {fileID: 2100000, guid: 7b79177dea3aedb449bfdcfe24451d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1013
+    second: {fileID: 2100000, guid: 5e394408b095ef541a52671890893b0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1014
+    second: {fileID: 2100000, guid: d9befc830970e5c48ae0f68e929f6a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17.1015
+    second: {fileID: 2100000, guid: 33a055bc5c9d04140a43a43f58c9f121, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Missing
+    second: {fileID: 2800000, guid: 0b40e1baef9c00944b532eaf85085a2b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1001
+    second: {fileID: 2800000, guid: 03e1ac4fcc3af5245a4f7e9a08b29c02, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1002
+    second: {fileID: 2800000, guid: 45cca4cb32d90014689c384b0cb9037e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1003
+    second: {fileID: 2800000, guid: dad40a7cfc8019b459c0c3fc295ab2c1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1004
+    second: {fileID: 2800000, guid: f9ac97a18ef0b724391ed00f315d3694, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1005
+    second: {fileID: 2800000, guid: 97ce164d49086954cbc1d8200547553a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1006
+    second: {fileID: 2800000, guid: ee27d1e0df846e141943eb0d51ffb1e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1007
+    second: {fileID: 2800000, guid: 731cd28a75cc0944e8b678fdc9e7e51f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1008
+    second: {fileID: 2800000, guid: 41f149f335f2a684bb180be7968c73da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1009
+    second: {fileID: 2800000, guid: dda22a9ff7ba3ec4a9e662cb788c0563, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1010
+    second: {fileID: 2800000, guid: 8e71908fd059f434cb8923f76983043d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1011
+    second: {fileID: 2800000, guid: d0c43a9b13e0cf44f93b6a0d1461df95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1012
+    second: {fileID: 2800000, guid: 25b87bccbd7f1544db2a6a27ea6c13c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Noghuts-02_Model_17_diffuse.1013
+    second: {fileID: 2800000, guid: cc8112a3fd36102438c74a50a0995d74, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

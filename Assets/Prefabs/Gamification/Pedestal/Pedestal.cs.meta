@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4e6c67cdc9daf8444ac09cab87f05a34
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentJachkar: {instanceID: 0}
+  - StoneClip: {fileID: 8300000, guid: 431b08c01fc1d9f47901eef98fd2e83a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
