@@ -2,3 +2,6 @@
 * text=auto
 Assets/Jose[[:space:]]Arriagada/models/Aruch/* filter=lfs diff=lfs merge=lfs -text
 Assets/Jose[[:space:]]Arriagada/models/small3/* filter=lfs diff=lfs merge=lfs -text
+assests/ALP_Assets filter=lfs diff=lfs merge=lfs -text
+assets/Meshs/Avan.fbx filter=lfs diff=lfs merge=lfs -text
+assets/Meshs/Noghuts.fbx filter=lfs diff=lfs merge=lfs -text
